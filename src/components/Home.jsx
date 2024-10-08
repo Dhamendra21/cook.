@@ -18,7 +18,7 @@ const Home = () => {
             from Quick and easy meals to gourmet delights, we have taste and
             occasion.{" "}
           </p>
-          <Link to={"/"}  className="mt-10 max-sm:text-xl bg-[#F38A00] px-5 py-2 font-semibold text-white rounded-sm ">
+          <Link to={"/recipes"}  className="mt-10 max-sm:text-xl bg-[#F38A00] px-5 py-2 font-semibold text-white rounded-sm ">
             {" "}
             Explore more{" "}
           </Link>
