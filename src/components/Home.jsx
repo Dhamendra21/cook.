@@ -12,7 +12,7 @@ const Home = () => {
           <h1 className="text-[4vw] max-sm:text-[9vw] leading-none font-semibold capitalize  ">
             Cook like a pro with our{" "}
             <span className="text-[#F38A00] italic">easy</span> and{" "}
-            <span className="text-[#F38A00] italic">testy</span> recipes{" "}
+            <span className="text-[#F38A00] italic">tasty</span> recipes{" "}
           </h1>
           <p className="my-5 text-xl max-sm:w-full w-9/12 font-semibold opacity-40">
             from Quick and easy meals to gourmet delights, we have taste and
